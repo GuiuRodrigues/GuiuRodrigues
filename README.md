@@ -3,6 +3,7 @@
 ### Olá pessoal 👋
 
 Sou apaixonado pelo desenvolvimento de sistemas, meu maior sonho é poder impactar a vida das pessoas de forma positiva atráves do desenvolvimento.
+
 Sou um Estudante de programação :computer:
 :rocket:  &nbsp; Estou trabalhando na **Fortics - Analista de suporte.**
  <br/> :blue_heart: &nbsp; Buscando ingressar na área do Front-end usando React
