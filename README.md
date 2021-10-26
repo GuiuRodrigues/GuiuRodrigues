@@ -10,3 +10,4 @@ Sou um Estudante de programação :computer:
  <br/> :computer: &nbsp; Minha stack de estudo atualmente é: ReactJS, Next.js, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games LoL e seriados no Netflix
  
+ [Marcos_Guilherme github stats] (https://github-readme-stats.vercel.app/api?username=marcosguilherm&show_icons=true&theme=material-palenight)
