@@ -1,5 +1,6 @@
-### 👋 Hey there, my name is **Marcos Guilherme** 💻
-
+<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Marcos Guilherme</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosguilherm&color=blueviolet" alt="Profile views" /> </p>
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 I am passionate about systems development, my biggest dream is to be able to positively impact people's lives through development. 
 
@@ -11,17 +12,28 @@ I'm a programming student  :computer:
  <br/> :computer: &nbsp; My study stack is currently : ReactJS, Next.js, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I like technologies, games and series on Netflix 
  ___
-Main stack:
-<div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=48&color=currentColor" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=48&color=currentColor" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=48&color=currentColor" />
-</div>
+
+## 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
  ___
-![Marcos_Guilherme github stats](https://github-readme-stats.vercel.app/api?username=marcosguilherm&theme=material-palenight&show_icons=true)
-![Marcos_Guilherme github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosguilherm&theme=material-palenight&layout=compact)
+ ## ⚙️ &nbsp;GitHub Analytics
+ <br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcosguilherm&show_icons=true&theme=nightowl" alt="biro's stats"/>
+</p>
+
+##
+
+
  
  ___
 ### My contact
