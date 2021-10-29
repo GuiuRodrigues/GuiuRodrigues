@@ -1,6 +1,6 @@
 <h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, my name is Marcos Guilherme</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosguilherm&color=blueviolet" alt="Profile views" /> </p>
-<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
+<img align="right" width="300em" height="300em" src="https://github.com/MarcosGuilherm/MarcosGuilherm/blob/main/animation_500_kv8i962g.gif?raw=true"/>
 
 I am passionate about systems development, my biggest dream is to be able to positively impact people's lives through development. 
 
